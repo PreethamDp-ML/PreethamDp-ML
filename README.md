@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **prithamgunari@gmail.com**
 
-- ⚡ Fun fact **I am a greater dancer in the weekend.**
+- ⚡ Fun fact **I am a great dancer in the weekend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
