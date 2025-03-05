@@ -8,9 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preethamdp-ml&label=Profile%20views&color=0e75b6&style=flat" alt="preethamdp-ml" /> </p>
 
 
-- 🔭 I’m currently working on **RCZ projects**
-
-- 🌱 I’m currently learning **Terraform**
+- 🔭 I’m currently working on **K8 projects**
 
 - 👯 I’m looking to collaborate on **Cloud projects**
 
