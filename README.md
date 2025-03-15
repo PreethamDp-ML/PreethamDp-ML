@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud projects**
 
-- 📝 I regularly write articles on ([https://medium.com/@prithamgunariml](https://medium.com/@prithamgunari/subscribe))
+- 📝 I regularly write articles on ([https://medium.com/@prithamgunari](https://medium.com/@prithamgunari))
 
 - 💬 Ask me about **Cloud and Dev Ops**
 
